@@ -1,6 +1,7 @@
 ---
 classes:
   - 'profile::base'
+  - '::libvirt'
 
 ntp::servers:
   - 0.us.pool.ntp.org
